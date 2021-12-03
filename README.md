@@ -1,4 +1,4 @@
-<p align="center"><img src="./page/logo.png" width="180"></p>
+<p align="center"><img src="./page/aniyurilightmode.png" width="180"></p>
 
 <h2 align="center"><b>AniYuri</b></h2>
 
