@@ -9,9 +9,9 @@
 
 ## Screenshots
 
-[<img src="./page/screenshot2.jpg" width=160>]
-[<img src="./page/screenshot1.jpg" width=160>]
-[<img src="./page/screenshot3.jpg" width=160>]
-[<img src="./page/screenshot4.jpg" width=160>]
-[<img src="./page/screenshot.jpg" width=160>]
+<img src="./page/screenshot2.jpg" width=160>
+<img src="./page/shreenshot1.jpg" width=160>
+<img src="./page/screenshot3.jpg" width=160>
+<img src="./page/Screenshot4.jpg" width=160>
+<img src="./page/screenshot.jpg" width=180>
 
