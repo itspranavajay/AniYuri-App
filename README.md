@@ -4,6 +4,9 @@
 
 <h4 align="center">An Android and IOS app to watch anime on your phone without ads.</h4>
 
+<h5 align="center">51 percent Completely</h5>
+<hr>
+
 <h5 align="center">Download soon...</h5>
 <hr>
 
