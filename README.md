@@ -1,6 +1,6 @@
 <p align="center"><img src="./page/logo.png" width="180"></p>
 
-<h2 align="center"><b>AniYuti</b></h2>
+<h2 align="center"><b>AniYuri</b></h2>
 
 <h4 align="center">An Android and IOS app to watch anime on your phone without ads.</h4>
 
