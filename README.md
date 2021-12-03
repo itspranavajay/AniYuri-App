@@ -18,3 +18,41 @@
 <img src="./page/Screenshot4.jpg" width=160>
 <img src="./page/screenshot.jpg" width=180>
 
+## Features
+
+- Recent Anime Release.
+- Popular Anime.
+- Search Anime. 
+- Anime Schedule.
+- Top Airing Anime.
+- Anime Movies.
+- Download Anime.
+- Automatic Download Anime.
+- Dark & Light Moade
+- Add to favorites.
+- Sign into My Anime List.
+- Auto Quality for Video Playback.
+- Directly skip to next/previous episode from player.
+- Update MAL list.
+- FanDub Anime
+- Ad free
+
+## Site used
+- Gogoanime.pe
+- animepahe.com
+- anilist.co
+- other anime fan dub site
+
+## Technologies used
+- Kotlin
+- MVVM
+- Retrofit & Coroutines
+- ExoPlayer
+- Javascript
+- Android Architecture Components
+- Coil
+
+## Credit By AnimeXStream
+I use AnimeXStream Source Code
+
+
