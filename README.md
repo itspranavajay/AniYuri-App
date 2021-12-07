@@ -2,9 +2,9 @@
 
 <h2 align="center"><b>AniYuri</b></h2>
 
-<h4 align="center">An Android and IOS app to watch anime on your phone without ads.</h4>
+<h4 align="center">An Android, AndroidTv and IOS app to watch anime on your phone without ads.</h4>
 
-<h5 align="center">51 percent Completely</h5>
+<h5 align="center">55 percent Completely</h5>
 <hr>
 
 <h5 align="center">Download soon...</h5>
@@ -44,6 +44,15 @@
 - anilist.co
 - other anime fan dub site
 
+
+## Api Reference
+
+- [API REPO](https://github.com/moezilla/aniyuri-api)
+  This api is being used in this project.
+- AnimePahe is not going to make the API public because all the code for this API is my own.
+But i have taken some code from an app so i have to open source the aniyuri app wait 💪
+
+
 ## Technologies used
 - Kotlin
 - Dart
@@ -54,7 +63,5 @@
 - Android Architecture Components
 - Coil
 
-## Credit By AnimeXStream
-I use AnimeXStream Source Code
 
 
