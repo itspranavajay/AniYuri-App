@@ -23,6 +23,7 @@
 - Recent Anime Release.
 - Popular Anime.
 - Search Anime. 
+- WhatAnime (photo search anime)
 - Anime Schedule.
 - Top Airing Anime.
 - Anime Movies.
@@ -45,6 +46,7 @@
 
 ## Technologies used
 - Kotlin
+- Dart
 - MVVM
 - Retrofit & Coroutines
 - ExoPlayer
