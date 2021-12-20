@@ -40,7 +40,8 @@
 
 ## Site used
 - Gogoanime.pe
-- animepahe.com
+- animepahe.com - for animepahe is not working
+- zoro.to
 - anilist.co
 - other anime fan dub site
 
